@@ -13,5 +13,6 @@ export default {
 <style scoped>
 h1 {
     text-shadow: 5px 5px darkgray;
+    font-size: 28px;
 }
 </style>
