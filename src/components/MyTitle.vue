@@ -6,11 +6,11 @@
 
 <script>
 export default {
-    name: 'Title'
-}
+    name: "MyTitle",
+};
 </script>
 
-<style>
+<style scoped>
 h1 {
     text-shadow: 5px 5px darkgray;
 }
